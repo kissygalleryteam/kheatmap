@@ -1,0 +1,14 @@
+{
+    "name": "kheatmap",
+    "version": "1.0",
+    "desc": "基于KISSY的热图组件",
+    "cover": "",
+    "tag":"heatmap",
+    "author": {
+        "name": "oldj",
+        "email": "oldj.wu@gmail.com",
+        "page": ""
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
